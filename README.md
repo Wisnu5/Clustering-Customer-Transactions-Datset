@@ -1,4 +1,3 @@
-# Clustering-Customer-Transactions-Datset
 # Klasifikasi dengan Random Forest dan Decision Tree
 
 ## Deskripsi Proyek
