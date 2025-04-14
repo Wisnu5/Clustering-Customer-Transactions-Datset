@@ -79,3 +79,8 @@ Dataset dibagi menjadi **training set (80%)** dan **testing set (20%)** dengan m
 3. **Eksplorasi teknik feature engineering** untuk meningkatkan representasi data.
 4. **Lakukan balancing data jika diperlukan**, untuk menangani ketimpangan jumlah sampel antar kelas.
 
+---
+
+## Author
+**Wisnu — Machine Learning Enthusiast**  
+IPB University, Computer Science 💻
